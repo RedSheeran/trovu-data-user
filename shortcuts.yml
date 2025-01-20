@@ -10,4 +10,4 @@ examplekeyword 2:
   tags:
   - example
 gp 1: https://play.google.com/store/search?q=<query>&c=apps
-zoomroom 1: https://zoom.us/location?roomName=<query>
+zoomroom 1: http://zoom.us/location?roomName=<query>
